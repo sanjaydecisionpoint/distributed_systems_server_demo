@@ -1,4 +1,4 @@
-# distributed_systems_server_demo
+# CAP theorem Demo using simple messaging servers
 
 ## Purpose
 
